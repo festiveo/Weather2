@@ -1,0 +1,8 @@
+{
+  "embeds": [
+  {
+    "title": "Weather",
+    "color": 1127128,
+    "content":" Tomorrow is {{TomorrowsDate}}"}, "Expect a high of {{HighTempCelsius}} C and a low of {{LowTempCelsius}} C. {{ConditionImageURL}}."
+     ]
+}
