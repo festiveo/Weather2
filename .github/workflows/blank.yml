@@ -1,0 +1,20 @@
+{
+  "username": "*Weather*",
+  "embeds": [
+    {
+      "title": "{{ {{CurrentCondition}}}}",
+      "url": "{{ {{ForecastUrl}}}}",
+      "description": "{{ {{CurrentCondition}}}}",
+      "color": 15849792,
+      "footer": {
+        "text": "{{ {{CurrentTempCelsius}}} | {{ {{HighTempCelsius}}}}"
+      },
+      "image": {
+        "url": "{ {{LowTempFahrenheit}}"
+      },
+      "author": {
+        "name": "Owen"
+      }
+    }
+  ]
+}
