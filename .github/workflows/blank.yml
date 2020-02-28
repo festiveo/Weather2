@@ -10,7 +10,7 @@
         "text": "{{ {{CurrentTempCelsius}}} | {{ {{HighTempCelsius}}}}"
       },
       "image": {
-        "url": "{ {{LowTempFahrenheit}}"
+        "url": "{ {{https://dominicantoday.com/wp-content/uploads/2016/11/6A7C74FC-7A75-4FDC-97F4-647751CFDB1D.jpeg}}"
       },
       "author": {
         "name": "Owen"
